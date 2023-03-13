@@ -1,11 +1,12 @@
+import java.util.ArrayList;
 import java.util.Stack;
 
 public class Ex3 {
-    public static int lenghtCalc(Stack stack) {
-        if (stack.size() == 0) return 0;
+    public static int lenghtCalc(ArrayList<Integer> list) {
+        if (list.isEmpty()) return 0;
 
-        stack.pop();
+        list.remove(0);
 
-        return 1 + lenghtCalc(stack);
+        return 1 + lenghtCalc(list);
     }
 }
