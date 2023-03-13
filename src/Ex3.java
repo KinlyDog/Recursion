@@ -1,22 +1,13 @@
+import java.util.Stack;
+
 public class Ex3 {
-    public static boolean palindrome (String str) {
-        if (str.length() == 1 || str.length() == 2 && str.charAt(0) == str.charAt(1)) {
-            return true;
+    public static int lenghtCalc(Stack stack) {
+        if (stack.size() == 0) {
+            return 0;
         }
 
-        if (str.charAt(0) != str.charAt(str.length() - 1)) {
-            return false;
-        }
+        stack.pop();
 
-        return palindrome(str.substring(1, str.length() - 1));
-    }
-
-    public static void main(String[] args) {
-        String str = "axaxa";
-
-        System.out.println(palindrome(str));
-        System.out.println(str);
-
-
+        return 1 + lenghtCalc(stack);
     }
 }
