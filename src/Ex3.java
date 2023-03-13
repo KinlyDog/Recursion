@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Stack;
 
 public class Ex3 {
     public static int lenghtCalc(ArrayList<Integer> list) {
