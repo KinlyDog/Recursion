@@ -2,9 +2,7 @@ import java.util.ArrayList;
 
 public class Ex5 {
     public static void evenValues(ArrayList<Integer> list) {
-        int index = 0;
-
-        evenValuesRec(list, index);
+        evenValuesRec(list, 0);
     }
 
     public static void evenValuesRec(ArrayList<Integer> list, int index) {

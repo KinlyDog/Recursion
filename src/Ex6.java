@@ -2,9 +2,7 @@ import java.util.ArrayList;
 
 public class Ex6 {
     public static void evenIndex(ArrayList<Integer> list) {
-        int index = 0;
-
-        evenIndexRec(list, index);
+        evenIndexRec(list, 0);
     }
 
     public static void evenIndexRec(ArrayList<Integer> list, int index) {
