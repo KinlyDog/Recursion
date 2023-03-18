@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2083ae95-6c95-422c-9133-beb5fe35bab4" name="Changes" comment="Update Ex.7">
+    <list default="true" id="2083ae95-6c95-422c-9133-beb5fe35bab4" name="Changes" comment="Update Ex.8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +31,7 @@
     <setting file="file://$PROJECT_DIR$/src/Ex5.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex6.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex7.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Ex8.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,7 +57,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex7">
+  <component name="RunManager" selected="Application.Ex8">
     <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex3" />
       <module name="Recursion" />
@@ -85,8 +86,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex8" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex8" />
         <item itemvalue="Application.Ex7" />
         <item itemvalue="Application.Ex6" />
         <item itemvalue="Application.Ex5" />
@@ -110,7 +119,7 @@
       <workItem from="1678792643803" duration="1179000" />
       <workItem from="1678889279772" duration="240000" />
       <workItem from="1679061890292" duration="603000" />
-      <workItem from="1679107270453" duration="9142000" />
+      <workItem from="1679107270453" duration="15549000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1678523723508</created>
@@ -189,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679115642182</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update Ex.7">
+      <created>1679117674940</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679117674940</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +221,8 @@
     <MESSAGE value="Update Ex.5 &amp; Ex.6" />
     <MESSAGE value="Add Ex.7" />
     <MESSAGE value="Update Ex.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Ex.7" />
+    <MESSAGE value="Update Ex.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Ex.8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
