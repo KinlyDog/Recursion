@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2083ae95-6c95-422c-9133-beb5fe35bab4" name="Changes" comment="Add Ex.6">
+    <list default="true" id="2083ae95-6c95-422c-9133-beb5fe35bab4" name="Changes" comment="Update Ex.5 &amp; Ex.6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex7.java" afterDir="false" />
     </list>
@@ -108,6 +108,9 @@
       <workItem from="1678623974804" duration="564000" />
       <workItem from="1678715433517" duration="8132000" />
       <workItem from="1678792643803" duration="1179000" />
+      <workItem from="1678889279772" duration="240000" />
+      <workItem from="1679061890292" duration="603000" />
+      <workItem from="1679107270453" duration="6584000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1678523723508</created>
@@ -165,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678722447808</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update Ex.5 &amp; Ex.6">
+      <created>1678889365607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678889365607</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +188,8 @@
     <MESSAGE value="Update Ex.3" />
     <MESSAGE value="Add Ex.5" />
     <MESSAGE value="Add Ex.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Ex.6" />
+    <MESSAGE value="Update Ex.5 &amp; Ex.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Ex.5 &amp; Ex.6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -190,8 +201,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Ex7.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="36" />
+          <line>44</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
