@@ -3,6 +3,10 @@ import java.util.Random;
 
 public class Ex7 {
     public static int secondMaxSearch(ArrayList<Integer> list) {
+        if (list.size() == 1) {
+            return list.get(0);
+        }
+
         ArrayList<Integer> sortedList = new ArrayList<>(list);
 
         secondMaxSearchRec(sortedList, 0, false);
@@ -15,7 +19,7 @@ public class Ex7 {
             return;
         }
 
-        if (i > list.size() - 2) {
+        if (i > list.size() - 2 && flag) {
             i = 0;
             flag = false;
         }
